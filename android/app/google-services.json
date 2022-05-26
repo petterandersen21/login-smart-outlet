@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "250716889422",
+    "project_id": "smartoutlet-c0388",
+    "storage_bucket": "smartoutlet-c0388.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:250716889422:android:76cf15e31c99b922f4be1f",
+        "android_client_info": {
+          "package_name": "com.example.smart_outlet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "250716889422-3k2mcaok4aadka3qtss42qim3tpg2e9m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.smart_outlet",
+            "certificate_hash": "d9bd758f18844f2b14eecbc3fcb401a5148af326"
+          }
+        },
+        {
+          "client_id": "250716889422-ovdbis11gnrle7gl5ve0btukp59glnu0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALlFZVd_pjSQNt-1mOGrmizCIdT8HCn20"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "250716889422-ovdbis11gnrle7gl5ve0btukp59glnu0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
